@@ -7,48 +7,48 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D17D31AF23C5CE620065D77E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D17D31AE23C5CE620065D77E /* AppDelegate.swift */; };
-		D17D31B123C5CE620065D77E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D17D31B023C5CE620065D77E /* SceneDelegate.swift */; };
-		D17D31B323C5CE620065D77E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D17D31B223C5CE620065D77E /* ContentView.swift */; };
-		D17D31B523C5CE670065D77E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D17D31B423C5CE670065D77E /* Assets.xcassets */; };
-		D17D31B823C5CE670065D77E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D17D31B723C5CE670065D77E /* Preview Assets.xcassets */; };
-		D17D31BB23C5CE670065D77E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D17D31B923C5CE670065D77E /* LaunchScreen.storyboard */; };
-		D17D31C623C5CE670065D77E /* ClickCounterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D17D31C523C5CE670065D77E /* ClickCounterTests.swift */; };
+		D19143DC23C5D553004A7C2E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19143DB23C5D553004A7C2E /* AppDelegate.swift */; };
+		D19143DE23C5D553004A7C2E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19143DD23C5D553004A7C2E /* SceneDelegate.swift */; };
+		D19143E023C5D553004A7C2E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19143DF23C5D553004A7C2E /* ViewController.swift */; };
+		D19143E323C5D553004A7C2E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D19143E123C5D553004A7C2E /* Main.storyboard */; };
+		D19143E523C5D554004A7C2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D19143E423C5D554004A7C2E /* Assets.xcassets */; };
+		D19143E823C5D554004A7C2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D19143E623C5D554004A7C2E /* LaunchScreen.storyboard */; };
+		D19143F323C5D555004A7C2E /* ClickCountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19143F223C5D555004A7C2E /* ClickCountTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		D17D31C223C5CE670065D77E /* PBXContainerItemProxy */ = {
+		D19143EF23C5D555004A7C2E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D17D31A323C5CE620065D77E /* Project object */;
+			containerPortal = D19143D023C5D553004A7C2E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D17D31AA23C5CE620065D77E;
-			remoteInfo = ClickCounter;
+			remoteGlobalIDString = D19143D723C5D553004A7C2E;
+			remoteInfo = ClickCount;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D17D31AB23C5CE620065D77E /* ClickCounter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClickCounter.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D17D31AE23C5CE620065D77E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D17D31B023C5CE620065D77E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D17D31B223C5CE620065D77E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		D17D31B423C5CE670065D77E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D17D31B723C5CE670065D77E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		D17D31BA23C5CE670065D77E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D17D31BC23C5CE670065D77E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D17D31C123C5CE670065D77E /* ClickCounterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClickCounterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D17D31C523C5CE670065D77E /* ClickCounterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClickCounterTests.swift; sourceTree = "<group>"; };
-		D17D31C723C5CE670065D77E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D19143D823C5D553004A7C2E /* ClickCount.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClickCount.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D19143DB23C5D553004A7C2E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D19143DD23C5D553004A7C2E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		D19143DF23C5D553004A7C2E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D19143E223C5D553004A7C2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D19143E423C5D554004A7C2E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D19143E723C5D554004A7C2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D19143E923C5D554004A7C2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D19143EE23C5D555004A7C2E /* ClickCountTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClickCountTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D19143F223C5D555004A7C2E /* ClickCountTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClickCountTests.swift; sourceTree = "<group>"; };
+		D19143F423C5D555004A7C2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D17D31A823C5CE620065D77E /* Frameworks */ = {
+		D19143D523C5D553004A7C2E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D17D31BE23C5CE670065D77E /* Frameworks */ = {
+		D19143EB23C5D555004A7C2E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -58,113 +58,105 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D17D31A223C5CE620065D77E = {
+		D19143CF23C5D553004A7C2E = {
 			isa = PBXGroup;
 			children = (
-				D17D31AD23C5CE620065D77E /* ClickCounter */,
-				D17D31C423C5CE670065D77E /* ClickCounterTests */,
-				D17D31AC23C5CE620065D77E /* Products */,
+				D19143DA23C5D553004A7C2E /* ClickCount */,
+				D19143F123C5D555004A7C2E /* ClickCountTests */,
+				D19143D923C5D553004A7C2E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D17D31AC23C5CE620065D77E /* Products */ = {
+		D19143D923C5D553004A7C2E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D17D31AB23C5CE620065D77E /* ClickCounter.app */,
-				D17D31C123C5CE670065D77E /* ClickCounterTests.xctest */,
+				D19143D823C5D553004A7C2E /* ClickCount.app */,
+				D19143EE23C5D555004A7C2E /* ClickCountTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D17D31AD23C5CE620065D77E /* ClickCounter */ = {
+		D19143DA23C5D553004A7C2E /* ClickCount */ = {
 			isa = PBXGroup;
 			children = (
-				D17D31AE23C5CE620065D77E /* AppDelegate.swift */,
-				D17D31B023C5CE620065D77E /* SceneDelegate.swift */,
-				D17D31B223C5CE620065D77E /* ContentView.swift */,
-				D17D31B423C5CE670065D77E /* Assets.xcassets */,
-				D17D31B923C5CE670065D77E /* LaunchScreen.storyboard */,
-				D17D31BC23C5CE670065D77E /* Info.plist */,
-				D17D31B623C5CE670065D77E /* Preview Content */,
+				D19143DB23C5D553004A7C2E /* AppDelegate.swift */,
+				D19143DD23C5D553004A7C2E /* SceneDelegate.swift */,
+				D19143DF23C5D553004A7C2E /* ViewController.swift */,
+				D19143E123C5D553004A7C2E /* Main.storyboard */,
+				D19143E423C5D554004A7C2E /* Assets.xcassets */,
+				D19143E623C5D554004A7C2E /* LaunchScreen.storyboard */,
+				D19143E923C5D554004A7C2E /* Info.plist */,
 			);
-			path = ClickCounter;
+			path = ClickCount;
 			sourceTree = "<group>";
 		};
-		D17D31B623C5CE670065D77E /* Preview Content */ = {
+		D19143F123C5D555004A7C2E /* ClickCountTests */ = {
 			isa = PBXGroup;
 			children = (
-				D17D31B723C5CE670065D77E /* Preview Assets.xcassets */,
+				D19143F223C5D555004A7C2E /* ClickCountTests.swift */,
+				D19143F423C5D555004A7C2E /* Info.plist */,
 			);
-			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		D17D31C423C5CE670065D77E /* ClickCounterTests */ = {
-			isa = PBXGroup;
-			children = (
-				D17D31C523C5CE670065D77E /* ClickCounterTests.swift */,
-				D17D31C723C5CE670065D77E /* Info.plist */,
-			);
-			path = ClickCounterTests;
+			path = ClickCountTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D17D31AA23C5CE620065D77E /* ClickCounter */ = {
+		D19143D723C5D553004A7C2E /* ClickCount */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D17D31CA23C5CE670065D77E /* Build configuration list for PBXNativeTarget "ClickCounter" */;
+			buildConfigurationList = D19143F723C5D555004A7C2E /* Build configuration list for PBXNativeTarget "ClickCount" */;
 			buildPhases = (
-				D17D31A723C5CE620065D77E /* Sources */,
-				D17D31A823C5CE620065D77E /* Frameworks */,
-				D17D31A923C5CE620065D77E /* Resources */,
+				D19143D423C5D553004A7C2E /* Sources */,
+				D19143D523C5D553004A7C2E /* Frameworks */,
+				D19143D623C5D553004A7C2E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = ClickCounter;
-			productName = ClickCounter;
-			productReference = D17D31AB23C5CE620065D77E /* ClickCounter.app */;
+			name = ClickCount;
+			productName = ClickCount;
+			productReference = D19143D823C5D553004A7C2E /* ClickCount.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D17D31C023C5CE670065D77E /* ClickCounterTests */ = {
+		D19143ED23C5D555004A7C2E /* ClickCountTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D17D31CD23C5CE670065D77E /* Build configuration list for PBXNativeTarget "ClickCounterTests" */;
+			buildConfigurationList = D19143FA23C5D555004A7C2E /* Build configuration list for PBXNativeTarget "ClickCountTests" */;
 			buildPhases = (
-				D17D31BD23C5CE670065D77E /* Sources */,
-				D17D31BE23C5CE670065D77E /* Frameworks */,
-				D17D31BF23C5CE670065D77E /* Resources */,
+				D19143EA23C5D555004A7C2E /* Sources */,
+				D19143EB23C5D555004A7C2E /* Frameworks */,
+				D19143EC23C5D555004A7C2E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D17D31C323C5CE670065D77E /* PBXTargetDependency */,
+				D19143F023C5D555004A7C2E /* PBXTargetDependency */,
 			);
-			name = ClickCounterTests;
-			productName = ClickCounterTests;
-			productReference = D17D31C123C5CE670065D77E /* ClickCounterTests.xctest */;
+			name = ClickCountTests;
+			productName = ClickCountTests;
+			productReference = D19143EE23C5D555004A7C2E /* ClickCountTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D17D31A323C5CE620065D77E /* Project object */ = {
+		D19143D023C5D553004A7C2E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
 				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = oresnet;
 				TargetAttributes = {
-					D17D31AA23C5CE620065D77E = {
+					D19143D723C5D553004A7C2E = {
 						CreatedOnToolsVersion = 11.3;
 					};
-					D17D31C023C5CE670065D77E = {
+					D19143ED23C5D555004A7C2E = {
 						CreatedOnToolsVersion = 11.3;
-						TestTargetID = D17D31AA23C5CE620065D77E;
+						TestTargetID = D19143D723C5D553004A7C2E;
 					};
 				};
 			};
-			buildConfigurationList = D17D31A623C5CE620065D77E /* Build configuration list for PBXProject "ClickCounter" */;
+			buildConfigurationList = D19143D323C5D553004A7C2E /* Build configuration list for PBXProject "ClickCount" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -172,29 +164,29 @@
 				en,
 				Base,
 			);
-			mainGroup = D17D31A223C5CE620065D77E;
-			productRefGroup = D17D31AC23C5CE620065D77E /* Products */;
+			mainGroup = D19143CF23C5D553004A7C2E;
+			productRefGroup = D19143D923C5D553004A7C2E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D17D31AA23C5CE620065D77E /* ClickCounter */,
-				D17D31C023C5CE670065D77E /* ClickCounterTests */,
+				D19143D723C5D553004A7C2E /* ClickCount */,
+				D19143ED23C5D555004A7C2E /* ClickCountTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D17D31A923C5CE620065D77E /* Resources */ = {
+		D19143D623C5D553004A7C2E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D17D31BB23C5CE670065D77E /* LaunchScreen.storyboard in Resources */,
-				D17D31B823C5CE670065D77E /* Preview Assets.xcassets in Resources */,
-				D17D31B523C5CE670065D77E /* Assets.xcassets in Resources */,
+				D19143E823C5D554004A7C2E /* LaunchScreen.storyboard in Resources */,
+				D19143E523C5D554004A7C2E /* Assets.xcassets in Resources */,
+				D19143E323C5D553004A7C2E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D17D31BF23C5CE670065D77E /* Resources */ = {
+		D19143EC23C5D555004A7C2E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -204,39 +196,47 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D17D31A723C5CE620065D77E /* Sources */ = {
+		D19143D423C5D553004A7C2E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D17D31AF23C5CE620065D77E /* AppDelegate.swift in Sources */,
-				D17D31B123C5CE620065D77E /* SceneDelegate.swift in Sources */,
-				D17D31B323C5CE620065D77E /* ContentView.swift in Sources */,
+				D19143E023C5D553004A7C2E /* ViewController.swift in Sources */,
+				D19143DC23C5D553004A7C2E /* AppDelegate.swift in Sources */,
+				D19143DE23C5D553004A7C2E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D17D31BD23C5CE670065D77E /* Sources */ = {
+		D19143EA23C5D555004A7C2E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D17D31C623C5CE670065D77E /* ClickCounterTests.swift in Sources */,
+				D19143F323C5D555004A7C2E /* ClickCountTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		D17D31C323C5CE670065D77E /* PBXTargetDependency */ = {
+		D19143F023C5D555004A7C2E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D17D31AA23C5CE620065D77E /* ClickCounter */;
-			targetProxy = D17D31C223C5CE670065D77E /* PBXContainerItemProxy */;
+			target = D19143D723C5D553004A7C2E /* ClickCount */;
+			targetProxy = D19143EF23C5D555004A7C2E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		D17D31B923C5CE670065D77E /* LaunchScreen.storyboard */ = {
+		D19143E123C5D553004A7C2E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D17D31BA23C5CE670065D77E /* Base */,
+				D19143E223C5D553004A7C2E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		D19143E623C5D554004A7C2E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D19143E723C5D554004A7C2E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -244,7 +244,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D17D31C823C5CE670065D77E /* Debug */ = {
+		D19143F523C5D555004A7C2E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -304,7 +304,7 @@
 			};
 			name = Debug;
 		};
-		D17D31C923C5CE670065D77E /* Release */ = {
+		D19143F623C5D555004A7C2E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -358,117 +358,113 @@
 			};
 			name = Release;
 		};
-		D17D31CB23C5CE670065D77E /* Debug */ = {
+		D19143F823C5D555004A7C2E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"ClickCounter/Preview Content\"";
-				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = ClickCounter/Info.plist;
+				INFOPLIST_FILE = ClickCount/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = oresnet.ClickCounter;
+				PRODUCT_BUNDLE_IDENTIFIER = oresnet.ClickCount;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		D17D31CC23C5CE670065D77E /* Release */ = {
+		D19143F923C5D555004A7C2E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"ClickCounter/Preview Content\"";
-				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = ClickCounter/Info.plist;
+				INFOPLIST_FILE = ClickCount/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = oresnet.ClickCounter;
+				PRODUCT_BUNDLE_IDENTIFIER = oresnet.ClickCount;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		D17D31CE23C5CE670065D77E /* Debug */ = {
+		D19143FB23C5D555004A7C2E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = ClickCounterTests/Info.plist;
+				INFOPLIST_FILE = ClickCountTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = oresnet.ClickCounterTests;
+				PRODUCT_BUNDLE_IDENTIFIER = oresnet.ClickCountTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClickCounter.app/ClickCounter";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClickCount.app/ClickCount";
 			};
 			name = Debug;
 		};
-		D17D31CF23C5CE670065D77E /* Release */ = {
+		D19143FC23C5D555004A7C2E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = ClickCounterTests/Info.plist;
+				INFOPLIST_FILE = ClickCountTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = oresnet.ClickCounterTests;
+				PRODUCT_BUNDLE_IDENTIFIER = oresnet.ClickCountTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClickCounter.app/ClickCounter";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClickCount.app/ClickCount";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D17D31A623C5CE620065D77E /* Build configuration list for PBXProject "ClickCounter" */ = {
+		D19143D323C5D553004A7C2E /* Build configuration list for PBXProject "ClickCount" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D17D31C823C5CE670065D77E /* Debug */,
-				D17D31C923C5CE670065D77E /* Release */,
+				D19143F523C5D555004A7C2E /* Debug */,
+				D19143F623C5D555004A7C2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D17D31CA23C5CE670065D77E /* Build configuration list for PBXNativeTarget "ClickCounter" */ = {
+		D19143F723C5D555004A7C2E /* Build configuration list for PBXNativeTarget "ClickCount" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D17D31CB23C5CE670065D77E /* Debug */,
-				D17D31CC23C5CE670065D77E /* Release */,
+				D19143F823C5D555004A7C2E /* Debug */,
+				D19143F923C5D555004A7C2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D17D31CD23C5CE670065D77E /* Build configuration list for PBXNativeTarget "ClickCounterTests" */ = {
+		D19143FA23C5D555004A7C2E /* Build configuration list for PBXNativeTarget "ClickCountTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D17D31CE23C5CE670065D77E /* Debug */,
-				D17D31CF23C5CE670065D77E /* Release */,
+				D19143FB23C5D555004A7C2E /* Debug */,
+				D19143FC23C5D555004A7C2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D17D31A323C5CE620065D77E /* Project object */;
+	rootObject = D19143D023C5D553004A7C2E /* Project object */;
 }

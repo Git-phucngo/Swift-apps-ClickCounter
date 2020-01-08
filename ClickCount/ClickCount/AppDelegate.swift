@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  ClickCounter
+//  ClickCount
 //
 //  Created by Sero on 1/8/20.
 //  Copyright © 2020 oresnet. All rights reserved.
