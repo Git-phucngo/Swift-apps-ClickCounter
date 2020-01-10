@@ -1,15 +1,15 @@
 //
-//  ClickCountTests.swift
-//  ClickCountTests
+//  clickcountTests.swift
+//  clickcountTests
 //
-//  Created by Sero on 1/8/20.
+//  Created by Sero on 1/9/20.
 //  Copyright © 2020 oresnet. All rights reserved.
 //
 
 import XCTest
-@testable import ClickCount
+@testable import clickcount
 
-class ClickCountTests: XCTestCase {
+class clickcountTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
