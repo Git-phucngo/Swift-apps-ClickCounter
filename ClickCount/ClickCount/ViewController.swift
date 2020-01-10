@@ -13,10 +13,12 @@ class ViewController: UIViewController {
     @IBOutlet weak var label: UILabel!
     var counter = 0
 
-    @IBAction func clickcounter(_ sender: UIButton) {
-        label.text = "Counter: \(counter)"
+    
+    /* Tap anywhere for counter */
+    @IBAction func clickcounter(_ sender: Any) {
+        label.text = "\(counter)"
         counter += 1
     }
-    
+  
 }
 
